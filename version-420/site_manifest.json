@@ -1,0 +1,23 @@
+{
+  "siteTitle": "日韩高清影片-高清电影片库-高清影片在线观看",
+  "logo": "日韩高清片库",
+  "movieCount": 2000,
+  "categoryCount": 12,
+  "videoSourceCount": 20,
+  "generatedAt": "2026-05-25",
+  "categoryFiles": [
+    "category-rihan.html",
+    "category-drama.html",
+    "category-action-crime.html",
+    "category-suspense-thriller.html",
+    "category-romance-comedy.html",
+    "category-animation-family.html",
+    "category-fantasy-sci-fi.html",
+    "category-series.html",
+    "category-china.html",
+    "category-western.html",
+    "category-new.html",
+    "category-classic.html"
+  ],
+  "detailDirectory": "movies/"
+}
